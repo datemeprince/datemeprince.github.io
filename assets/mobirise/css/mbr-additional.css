@@ -793,6 +793,8 @@ pre {
   border-radius: 100px !important;
 }
 .cid-qtFX5mQyA0 {
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/saiespake-image-correct-copy-1920x1280.jpg");
 }
 .cid-qtFX5mQyA0 h1 {
@@ -853,6 +855,7 @@ pre {
 }
 .cid-qtFXIhjCxM .mbr-text UL {
   color: #232323;
+  text-align: left;
 }
 .cid-qtFX9pNG8a {
   padding-top: 0px;
